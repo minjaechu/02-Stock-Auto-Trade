@@ -1,0 +1,16 @@
+#WebからAPIサービス申し込み後付与されたAppkey, Appsecret値設定
+APP_KEY: ""
+APP_SECRET: ""
+
+#口座番号前８桁
+CANO: ""
+#口座番号後２桁
+ACNT_PRDT_CD: "01"
+
+#実践投資
+URL_BASE: "https://openapi.koreainvestment.com:9443"
+#模擬投資
+# URL_BASE: "https://openapivts.koreainvestment.com:29443"
+
+#Discord Webhook URL
+DISCORD_WEBHOOK_URL: ""
